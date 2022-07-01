@@ -1,2 +1,2 @@
-# .github
-Ilario...
+# Ilario
+Ilario is currently developing plugins for HCRival.org.
