@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Ilario is currently developing for HCRival.org
+Ilario is currently developing plugins
